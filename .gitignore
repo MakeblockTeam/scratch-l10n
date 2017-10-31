@@ -8,5 +8,6 @@ npm-*
 # generated locale files
 /locales
 
-# generated build files
-/dist
+# yarn
+yarn.lock
+yarn-error.log

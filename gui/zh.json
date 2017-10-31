@@ -1,154 +1,154 @@
 {
     "gui.soundEditor.echo": {
-        "message": "Echo",
+        "message": "回声",
         "description": "Title of the button to apply the echo effect"
     },
     "gui.soundEditor.save": {
-        "message": "Save",
+        "message": "保存",
         "description": "Title of the button to save trimmed sound"
     },
     "gui.soundEditor.stop": {
-        "message": "Stop",
+        "message": "停止",
         "description": "Title of the button to stop the sound"
     },
     "gui.soundEditor.redo": {
-        "message": "Redo",
+        "message": "重做",
         "description": "Title of the button to redo"
     },
     "gui.soundEditor.softer": {
-        "message": "Softer",
+        "message": "轻柔",
         "description": "Title of the button to apply thr.softer effect"
     },
     "gui.soundEditor.robot": {
-        "message": "Robot",
+        "message": "机器",
         "description": "Title of the button to apply the robot effect"
     },
     "gui.stageSelector.targetPaneAddBackdrop": {
-        "message": "Add Backdrop",
+        "message": "添加背景",
         "description": "Button to add a backdrop in the target pane"
     },
     "gui.soundEditor.trim": {
-        "message": "Trim",
+        "message": "裁剪",
         "description": "Title of the button to start trimminging the sound"
     },
     "gui.costumeTab.addBackdrop": {
-        "message": "Add Backdrop",
+        "message": "添加背景",
         "description": "Button to add a backdrop in the editor tab"
     },
     "gui.spriteSelector.addSprite": {
-        "message": "Add Sprite",
+        "message": "添加角色",
         "description": "Button to add a sprite in the target pane"
     },
     "gui.soundEditor.slower": {
-        "message": "Slower",
+        "message": "慢播",
         "description": "Title of the button to apply the slower effect"
     },
     "gui.turboMode.active": {
-        "message": "Turbo Mode",
+        "message": "漩涡模式",
         "description": "Label indicating turbo mode is active"
     },
     "gui.soundEditor.play": {
-        "message": "Play",
+        "message": "播放",
         "description": "Title of the button to start playing the sound"
     },
     "gui.soundTab.addSound": {
-        "message": "Add Sound",
+        "message": "添加声音",
         "description": "Button to add a sound in the editor tab"
     },
     "gui.spriteSelectorItem.contextMenuDuplicate": {
-        "message": "duplicate",
+        "message": "复制",
         "description": "Menu item to duplicate in the right click menu"
     },
     "gui.spriteSelectorItem.contextMenuDelete": {
-        "message": "delete",
+        "message": "删除",
         "description": "Menu item to delete in the right click menu"
     },
     "gui.stageSelector.backdrops": {
-        "message": "Backdrops",
+        "message": "背景",
         "description": "Label for the backdrops in the stage selector"
     },
     "gui.soundEditor.louder": {
-        "message": "Louder",
+        "message": "响亮",
         "description": "Title of the button to apply the louder effect"
     },
     "gui.soundEditor.faster": {
-        "message": "Faster",
+        "message": "快播",
         "description": "Title of the button to apply the faster effect"
     },
     "gui.soundTab.recordSound": {
-        "message": "Record Sound",
+        "message": "录音",
         "description": "Button to record a sound in the editor tab"
     },
     "gui.gui.addExtension": {
-        "message": "Extensions",
+        "message": "扩展",
         "description": "Button to add an extension in the target pane"
     },
     "gui.soundEditor.reverse": {
-        "message": "Reverse",
+        "message": "反转",
         "description": "Title of the button to apply the reverse effect"
     },
     "gui.soundEditor.undo": {
-        "message": "Undo",
+        "message": "撤销",
         "description": "Title of the button to undo"
     },
     "gui.costumeTab.addCostume": {
-        "message": "Add Costume",
+        "message": "添加造型",
         "description": "Button to add a costume in the editor tab"
     },
     "gui.soundEditor.sound": {
-        "message": "Sound",
+        "message": "声音",
         "description": "Label for the name of the sound"
     },
     "gui.gui.tabBlocks": {
-        "message": "Blocks",
+        "message": "语句块",
         "description": "tab to show current sprite blocks"
     },
     "gui.gui.tabCostumes": {
-        "message": "Costumes",
+        "message": "造型",
         "description": "tab to show current sprite Costumes"
     },
     "gui.gui.tabSounds": {
-        "message": "Sounds",
+        "message": "声音",
         "description": "tab to show current sprite Sounds"
     },
     "gui.sprite.connect": {
-        "message": "Connect",
+        "message": "连接",
         "description": "Button to connect a device"
     },
     "gui.sprite.device": {
-        "message": "Device",
+        "message": "设备",
         "description": "choose a device sprite"
     },
     "gui.sprite.upload": {
-        "message": "Upload to device",
+        "message": "上传代码",
         "description": "Button to Upload code to a connected device"
     },
     "gui.sprite.sprite": {
-        "message": "Sprite",
+        "message": "角色",
         "description": "current sprite's name"
     },
     "gui.sprite.show": {
-        "message": "Show",
+        "message": "显示",
         "description": "show/hide current sprite"
     },
     "gui.sprite.direction": {
-        "message": "Direction",
+        "message": "方向",
         "description": "current sprite's direction"
     },
     "gui.sprite.rotation": {
-        "message": "Rotation",
-        "description": "current sprite's rotation"
+        "message": "旋转",
+        "description": "current sprite's rotation mode"
     },
     "gui.rotation.leftRight": {
-        "message": "left-right",
+        "message": "左右翻转",
         "description": "sprite only can rotate to left or right"
     },
     "gui.rotation.noRotate": {
-        "message": "don't rotate",
+        "message": "不能旋转",
         "description": "sprite can't rotate"
     },
     "gui.rotation.allAround": {
-        "message": "all around",
+        "message": "任意旋转",
         "description": "sprite can rotate all around"
     }
 }
